@@ -8,7 +8,7 @@
 
 import UIKit
 
-final class ___VARIABLE_moduleName___Wireframe: BaseWireframe {
+class ___VARIABLE_moduleName___Wireframe: BaseWireframe {
 
     // MARK: - Private properties -
 

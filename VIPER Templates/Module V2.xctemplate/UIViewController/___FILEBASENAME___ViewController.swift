@@ -8,7 +8,7 @@
 
 import UIKit
 
-final class ___VARIABLE_moduleName___ViewController: UIViewController {
+class ___VARIABLE_moduleName___ViewController: UIViewController {
 
     // MARK: - Public properties -
 

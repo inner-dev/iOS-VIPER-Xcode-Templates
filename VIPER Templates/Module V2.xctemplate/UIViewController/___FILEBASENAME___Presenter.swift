@@ -8,7 +8,7 @@
 
 import UIKit
 
-final class ___VARIABLE_moduleName___Presenter {
+class ___VARIABLE_moduleName___Presenter {
 
     // MARK: - Private properties -
 

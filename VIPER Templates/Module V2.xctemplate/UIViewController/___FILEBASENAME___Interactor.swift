@@ -9,7 +9,7 @@
 import Foundation
 import PromiseKit
 
-final class ___VARIABLE_moduleName___Interactor {
+class ___VARIABLE_moduleName___Interactor {
 }
 
 // MARK: - Extensions -
